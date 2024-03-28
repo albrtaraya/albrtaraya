@@ -1,5 +1,5 @@
 # Hi 👋 I'm Albert Araya
-I like to participate in interesting projects 😁 and build incredible things 🔨 I am very good at designing and developing system architecture 🧩, I love designing interfaces with JavaScript frameworks ✏ and creating APIs with PHP and Python frameworks 🐍. I love learning about AI, Cybersecurity and Video Games.
+I like building incredible things 🔨 I am very good at designing and developing 🧩 system architecture, I love designing 🖊intuitive web interfaces and creating APIs 📌 of all kinds with backend frameworks. I love learning 📚 about AI, Cybersecurity and Video Games.
 <!--
 **aaraya-dev/aaraya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
