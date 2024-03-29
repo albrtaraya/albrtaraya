@@ -4,7 +4,8 @@
 <h1>Hi 👋 I'm Albert Araya</h1>
 <p>I like building incredible things 🔨 I am very good at designing and developing 🧩 system architecture, I love designing 🖊 intuitive web interfaces and creating APIs 📌 of all kinds with backend frameworks. I love learning 📚 about AI, Cybersecurity and Video Games.</p>
 
-<h3>🌎 Skills</h3>
+<h2>🌎 Skills 🌎</h2>
+
 | Feature                            | Description                                             |
 |------------------------------------|---------------------------------------------------------|
 | 📦 Frameworks that I master   | <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" width="35"> </p> |
@@ -16,7 +17,7 @@
 | 🏘 Operating systems that I use   | <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="35"> </p> |
 | 📚 Libraries I like to use   | <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/OpenCV-Dark.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" width="35"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JQuery.svg" width="35"> </p> |
 
-<h3>🧠 Technologies I'm learning</h3>
+<h2>🧠 Technologies I'm learning 🧠</h2>
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Astro.svg" width="35"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="35"> 
