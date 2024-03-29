@@ -1,4 +1,4 @@
-!![Banner](https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/github-banner-albert-araya.png)
+![Banner](https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/github-banner-albert-araya.png)
 
 <img align="left" src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/vader.gif" width="100">
 <h1>Hi 👋 I'm Albert Araya</h1>
