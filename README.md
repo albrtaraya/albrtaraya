@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/learning-vs-bugs.gif" title="https://www.deviantart.com/1fightinglion/art/StarCraft-Marine-203068346 and https://64.media.tumblr.com/8b6da3254013ddddba48cf713cf894b2/c020d7b134e429a3-cd/s400x600/8e682f815ab32119bd24b18ddfafd23f88aa3c02.gifv" width="70%">
+  <img src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/battle.gif" title="" width="70%">
 </p>
