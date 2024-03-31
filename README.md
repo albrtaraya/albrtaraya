@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/github-banner-albert-araya.png)
 
-<img align="left" src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/vader.gif" width="100">
+<img align="left" src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/vader.gif" title="https://www.deviantart.com/z-studios/art/Vader-679282867" width="100">
 <h1>Hi 👋 I'm Albert Araya</h1>
 <p>I like building incredible things 🔨 I am very good at designing and developing 🧩 system architecture, I love designing 🖊 intuitive web interfaces and creating APIs 📌 of all kinds with backend frameworks. I love learning 📚 about AI, Cybersecurity and Video Games.</p>
 
@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/learning-vs-bugs.gif" width="70%">
+  <img src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/learning-vs-bugs.gif" title="https://www.deviantart.com/1fightinglion/art/StarCraft-Marine-203068346 and https://64.media.tumblr.com/8b6da3254013ddddba48cf713cf894b2/c020d7b134e429a3-cd/s400x600/8e682f815ab32119bd24b18ddfafd23f88aa3c02.gifv" width="70%">
 </p>
