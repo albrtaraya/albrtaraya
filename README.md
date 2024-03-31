@@ -25,12 +25,3 @@
   &nbsp; 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="45"> 
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/battle.gif" title="" width="100%">
-</p>
-<h5 align="center" style="margin-top:-120px; display: flex; justify-content:center;padding-left: 35px; ">
-  <p style="font-size: 15px; width: 15%; color: #0081F6;">My Knowledge</p>
-  <p style="font-size: 15px; width: 5%; padding-top: 8px;">🆚</p>
-  <p style="font-size: 15px; width: 15%; padding-top: 8px; color: red;">Problems</p>
-</h5>
