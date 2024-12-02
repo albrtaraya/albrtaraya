@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/banner-github.png)
+![Banner](https://raw.githubusercontent.com/aaraya-dev/aaraya-dev/main/assets/banner-github-darthstack.png)
 
 <!--
 <h1>Hola 👋 Soy DarthStack (Albert Araya)</h1>
